@@ -136,6 +136,7 @@ npm run preview  # 빌드 결과 미리보기
 - [Google Maps Routes API 문서](https://developers.google.com/maps/documentation/routes/compute_route_directions)
 - [Directions API에서 Routes API로 마이그레이션](https://developers.google.com/maps/documentation/routes/migrate-routes)
 - [Google Maps JavaScript API](https://developers.google.com/maps/documentation/javascript)
+- [Routes API로 마이그레이션해야 하는 이유 (성능)](https://developers.google.com/maps/documentation/routes/migrate-routes-why?hl=ko)
 
 ## 📄 라이선스
 
