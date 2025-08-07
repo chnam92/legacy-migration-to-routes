@@ -113,7 +113,7 @@ const response = await fetch('https://routes.googleapis.com/directions/v2:comput
 
 | 기능 | Legacy API | Routes API |
 |------|------------|------------|
-| **요청 방식** | JavaScript SDK | HTTP REST API (POST) |
+| **요청 방식** | JavaScript Library | HTTP REST API (POST) |
 | **응답 형식** | JavaScript 객체 | JSON (Field Mask 필요) |
 | **트래픽 정보** | 제한적 | 향상된 실시간 트래픽 |
 
