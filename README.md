@@ -27,8 +27,8 @@ Google Maps Platform에서 Directions API가 레거시가 되고 새로운 Route
 
 1. **Google Maps API 키** (다음 API가 활성화되어야 함):
    - Maps JavaScript API
-   - Directions API (레거시)
-   - Routes API (새로운)
+   - Directions API (Legacy)
+   - Routes API (New)
    - Geocoding API
 
 ### 설치 및 실행
